@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Jacob Colvin</h1>
+<h1 align="left">:wave: Hello Everyone! I'm Zaiiim</h1>
 <h3 align="left">Building reliable infrastructure & automating the boring stuff.</h3>
 
 <p align="left">
@@ -23,7 +23,6 @@
 - :seedling: &nbsp;Currently deep-diving into **Kubernetes** & **Terraform**
 - :rocket: &nbsp;Homelabbing with **Proxmox** & **Ansible** to practice real-world scenarios
 - :speech_balloon: &nbsp;Ask me about: Docker, CI/CD Pipelines, Linux troubleshooting
-- :mailbox: &nbsp;How to reach me: **[jacobcolvin.com]** or open an **[issue]** on this repo
 - :zap: &nbsp;Fun fact: I believe "It works on my machine" is a challenge, not an excuse.
 
 <br clear="both"/>
@@ -123,5 +122,5 @@
 - 🏗️ Homelab goal: **High-availability K3s cluster**
 
 <!-- Links -->
-[jacobcolvin.com]: https://jacobcolvin.com
 [issue]: https://github.com/Zaiim/Zaiim/issues
+[LinkedIn]: https://www.linkedin.com/in/faisal-b-09a27515a/
