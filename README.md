@@ -1,129 +1,127 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">Building reliable infrastructure & automating the boring stuff.</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/Zaiim">
+    <img src="https://komarev.com/ghpvc/?username=Zaiim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  <a href="https://github.com/Zaiim?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Zaiim?style=flat&logo=github">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  <a href="https://linkedin.com/in/colvinjm">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<!-- Optional: Add a cool header image here later, like a terminal prompt or Kubernetes logo -->
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaiim&show_icons=true&hide_border=true&title_color=0040ff&icon_color=0040ff&text_color=ffffff&bg_color=0d1117" alt="Zaiim's GitHub Stats" align="right" width="45%" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;Junior DevOps Engineer (Actively leveling up my cloud & automation skills)
+- :seedling: &nbsp;Currently deep-diving into **Kubernetes** & **Terraform**
+- :rocket: &nbsp;Homelabbing with **Proxmox** & **Ansible** to practice real-world scenarios
+- :speech_balloon: &nbsp;Ask me about: Docker, CI/CD Pipelines, Linux troubleshooting
+- :mailbox: &nbsp;How to reach me: **[jacobcolvin.com]** or open an **[issue]** on this repo
+- :zap: &nbsp;Fun fact: I believe "It works on my machine" is a challenge, not an excuse.
 
-<br>
+<br clear="both"/>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">🛠️ DevOps Toolchain</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools I use daily to deploy, monitor, and scale applications.
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Debian
+      <br>K8s
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>CI/CD
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<h2 align="left">💻 Languages for Automation</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<h2 align="left">📈 Current Focus</h2>
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+- 🔭 I’m currently building: **A GitOps pipeline using ArgoCD**
+- 🌱 I’m currently learning: **AWS Solutions Architect** fundamentals
+- 🏗️ Homelab goal: **High-availability K3s cluster**
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+<!-- Links -->
+[jacobcolvin.com]: https://jacobcolvin.com
+[issue]: https://github.com/Zaiim/Zaiim/issues
